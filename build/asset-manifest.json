@@ -1,10 +1,11 @@
 {
-  "main.css": "static/css/main.0aa687e5.css",
-  "main.css.map": "static/css/main.0aa687e5.css.map",
-  "main.js": "static/js/main.84a64073.js",
-  "main.js.map": "static/js/main.84a64073.js.map",
+  "main.css": "static/css/main.8b01432f.css",
+  "main.css.map": "static/css/main.8b01432f.css.map",
+  "main.js": "static/js/main.8ca11547.js",
+  "main.js.map": "static/js/main.8ca11547.js.map",
   "static/media/Quicksand-Bold.ttf": "static/media/Quicksand-Bold.0c044626.ttf",
   "static/media/Quicksand-Regular.ttf": "static/media/Quicksand-Regular.f87b9b4f.ttf",
+  "static/media/bg.jpg": "static/media/bg.46e72d8f.jpg",
   "static/media/glyphicons-halflings-regular.eot": "static/media/glyphicons-halflings-regular.f4769f9b.eot",
   "static/media/glyphicons-halflings-regular.svg": "static/media/glyphicons-halflings-regular.89889688.svg",
   "static/media/glyphicons-halflings-regular.ttf": "static/media/glyphicons-halflings-regular.e18bbf61.ttf",
@@ -13,5 +14,5 @@
   "static/media/icomoon.svg?g4zjow": "static/media/icomoon.d2c27d4f.svg",
   "static/media/icomoon.ttf?g4zjow": "static/media/icomoon.a629e7d5.ttf",
   "static/media/icomoon.woff?g4zjow": "static/media/icomoon.0e283ca8.woff",
-  "static/media/logo-long.svg": "static/media/logo-long.f0ffd3e7.svg"
+  "static/media/logo-long.svg": "static/media/logo-long.31fd2630.svg"
 }

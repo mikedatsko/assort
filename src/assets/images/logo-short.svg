@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
-  <ellipse cx="250" cy="250" rx="230" ry="230" style="stroke-width: 40; stroke: rgb(255, 0, 0);"/>
-  <path d="M 149.528 422.387 L 254.805 48.671 L 360.277 422.387 L 314.631 422.387 L 298.704 361.978 L 210.713 361.978 L 194.98 422.387 L 149.528 422.387 Z M 221.202 321.965 L 288.215 321.965 L 263.935 228.536 L 254.611 185.221 L 245.676 228.536 L 221.202 321.965 Z" style="white-space: pre; fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255); stroke-width: 4;"/>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <pattern id="pattern-0" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse" viewBox="0 0 100 100">
+      <path d="M 0 0 L 50 0 L 50 100 L 0 100 Z" style="fill: black;"/>
+    </pattern>
+  </defs>
+  <g transform="matrix(1.254052, 0, 0, 1.254052, -63.513088, -63.513027)">
+    <ellipse transform="matrix(0, 1, -1, 0, 1690.473999, -1765.930054)" cx="2015.93" cy="1440.474" rx="192.316" ry="192.316" style="fill: rgb(255, 78, 78);"/>
+    <path d="M 250 126.628 L 359.818 316.837 L 140.182 316.837 L 250 126.628 Z" style="fill: none; stroke: rgb(255, 255, 255); stroke-linejoin: bevel; stroke-linecap: square; stroke-width: 50;" bx:shape="triangle 140.182 126.628 219.636 190.209 0.5 0 1@3e961f36"/>
+  </g>
 </svg>

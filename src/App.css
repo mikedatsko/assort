@@ -1,35 +1,51 @@
 .App {
-  text-align: center;
+  display: flex;
   height: 100%;
+  width: 100%;
+  background: url(./assets/images/bg.jpg) no-repeat 100% 50%;
+  background-size: cover;
+  justify-content: center;
 }
 
 .App-logo {
   /*animation: App-logo-spin infinite 20s linear;*/
-  height: 80px;
+  width: 250px;
 }
 
 .App-header {
   height: 100%;
+  width: 500px;
   padding: 20px;
-  color: grey;
+  display: -ms-flexbox;
   display: flex;
+  -ms-flex-direction: column;
   flex-direction: column;
-  align-items: center;
+  -ms-flex-align: center;
+  align-items: flex-end;
+  -ms-flex-pack: center;
   justify-content: center;
+  padding-right: 240px;
 }
 
 .App-slogan {
-  font-size: 20px;
+  font-size: 3rem;
   text-transform: lowercase;
-  margin: 20px 0 0;
+  margin: 0px 0 0;
   letter-spacing: 1px;
+  text-align: right;
 }
 
 .App-contacts {
-  font-size: 16px;
+  font-size: 2rem;
   text-transform: lowercase;
   margin: 20px 0 0;
   letter-spacing: 1px;
+  display: flex;
+  align-items: center;
+}
+
+.App-contacts [class^="icon-"] {
+  margin: 0px 5px 0 0px;
 }
 
 @keyframes App-logo-spin {
